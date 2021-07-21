@@ -1,0 +1,10 @@
+this is a sample text. it should be detected as an english text.
+
+it was written in july 2021.
+
+the author is unknown.
+
+here is the alphabet in lower case letters: abcdefghijklmnopqrstuvwxyz
+here is the alphabet in upper case letters: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+they all look absolutely correct.
